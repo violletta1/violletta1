@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **JS and Software Engineering and DevOps**
 - 📫 How to reach me **villygeorgieva@yahoo.com**
 - ⚡ Fun fact 
-  * 💄 I have a passion for SFX makeup and enjoy creating intricate looks in my free time.
+  * 💄 I have a passion for SFX makeup and enjoy creating realistic injuries and scary looks in my free time.
   * 🐾 Dogs are my absolute passion.
   * 📅 Currently, I'm working on an exciting planner project to help users organize their lives more efficiently.
   * 🌱 Learning and exploring new technologies is my constant pursuit; I love the challenge of staying updated in the fast-paced tech world.
