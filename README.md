@@ -1,6 +1,7 @@
 ![Banner](https://github.com/violletta1/banner/raw/main/banner.jpg)
 
-<h3 align="center">A passionate software developer from Bulgaria</h3>
+*<h1 align="center">A passionate software developer from Bulgaria</h1>*
+
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
