@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🌱 I’m currently learning **JS and Software Engineering and DevOps**
+- 🌱 I’m currently learning **Angular**
 - 📫 How to reach me **villygeorgieva@yahoo.com**
 - ⚡ Fun fact 
   * 💄 I have a passion for SFX makeup and enjoy creating realistic injuries and scary looks in my free time.
-  * 🐾 Dogs are my absolute passion.
+  * 🐾 Dog lover.
   * 📅 Currently, I'm working on an exciting planner project to help users organize their lives more efficiently.
   * 🌱 Learning and exploring new technologies is my constant pursuit; I love the challenge of staying updated in the fast-paced tech world.
 
